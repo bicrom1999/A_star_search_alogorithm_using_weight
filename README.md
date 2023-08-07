@@ -1,8 +1,5 @@
-# A_star_search_alogorithm_using_weight
-# ICT 4362: Artificial Intelligence Lab
-#                Lab-04
-# Md.Shahriar Hossain Apu
-#Id-1901036
+
+#Bicrom_Adhikari_@bikromadhikari1998@gmail.com
 
 from collections import defaultdict
 from typing import Tuple
